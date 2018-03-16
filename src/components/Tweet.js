@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Tweet extends React.Component {
+export default class Tweet extends React.Component {
 
   render() {
     return (
@@ -8,5 +8,3 @@ class Tweet extends React.Component {
     )
   }
 }
-
-export default Tweet;
